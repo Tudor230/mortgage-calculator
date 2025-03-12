@@ -2,7 +2,7 @@
 
 # Mortgage calculator
 
-![App Screenshot](./assets/mockup.png)
+<img src="./assets/mockup.png" alt="App Screenshot" height="500" />
 
 This is a mobile application built using React Native and Expo. Below are the instructions to get the app up and running on your local machine.
 
